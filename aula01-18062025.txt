@@ -1,1 +1,42 @@
 utilizando o github pela primeira vez...
+
+sudo apt update
+🔄 Atualiza a lista de pacotes (não instala nada).
+
+sudo apt upgrade
+⬆️ Atualiza os pacotes instalados, sem remover nada.
+
+sudo apt full-upgrade
+🧠 Atualiza tudo, mesmo que precise remover ou trocar pacotes.
+
+sudo apt dist-upgrade
+🧠 Igual ao full-upgrade, nome antigo. Faz upgrades mais “inteligentes”.
+
+sudo apt autoremove
+🧹 Remove pacotes que não são mais usados.
+
+sudo apt autoclean
+🧼 Apaga arquivos de pacotes antigos, que não são mais instaláveis.
+
+sudo apt clean
+🔥 Apaga todos os arquivos baixados de pacotes (.deb), limpa geral.
+
+vim
+📝 Editor de texto no terminal (leve e poderoso).
+
+📦 git
+🔧 Sistema de controle de versões (gerencia códigos, GitHub etc).
+
+📦 cloc
+📊 Conta linhas de código (por linguagem, arquivo etc).
+
+📦 pip
+📦 Gerenciador de pacotes do Python (instala libs Python).
+
+📦 python3
+🐍 Interpretador da linguagem Python (roda códigos Python).
+
+ Git Bash (Windows)
+✅ O que é:
+Um terminal para Windows que simula o Bash do Linux, vem junto com o Git.
+
